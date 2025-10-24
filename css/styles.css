@@ -101,7 +101,7 @@ a{
     text-transform: capitalize;
     color: #2e2f42;
 }
-.section-team .team-list {
+.section-team .team-item {
     background: #fff;
 }
 .team-name {
