@@ -22,6 +22,7 @@ a {
     text-transform: uppercase;
     color: #4d5ae5;
 }
+/* #region header */
 
 .header-logo .logo-part {
     color: #2e2f42;
@@ -55,7 +56,8 @@ a {
 .address-link:focus {
     color: #404bbf;
 }
-
+/* #endregion header */
+/* #region hero */
 .section-hero {
     background-color: #2e2f42;
 }
@@ -82,7 +84,8 @@ a {
 .button:focus {
     background-color: #404bbf;
 }
-
+/* #endregion hero */
+/* #region skills */
 .skills-title {
     font-weight: 500;
     font-size: 20px;
@@ -109,7 +112,8 @@ a {
     text-transform: capitalize;
     color: #2e2f42;
 }
-
+/* #endregion skills */
+/* #region team */
 .section-team .team-item {
     background: #fff;
 }
@@ -129,7 +133,8 @@ a {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
+/* #endregion team */
+/* #region portfolio */
 .portfolio-title {
     font-size: 36px;
     line-height: 1.11;
@@ -152,7 +157,8 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+/* #endregion portfolio */
+/* #region footer */
 .footer {
     background-color: #2e2f42;
 }
@@ -177,3 +183,4 @@ a {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+/* #endregion footer */
